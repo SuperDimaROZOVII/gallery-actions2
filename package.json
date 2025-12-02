@@ -2,7 +2,7 @@
   "name": "gallery-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://USERNAMESuperDimaROZOVII.github.io/gallery-actions2",
+  "homepage": "https://SuperDimaROZOVII.github.io/gallery-actions2",
   "type": "module",
   "scripts": {
     "dev": "vite",
